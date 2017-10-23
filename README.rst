@@ -1,0 +1,1 @@
+this project is my personal notes in learning `pony ORM <https://docs.ponyorm.com/>`_.
